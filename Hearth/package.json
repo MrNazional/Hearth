@@ -1,0 +1,15 @@
+{
+  "name": "hearthdesk",
+  "version": "1.0.0",
+  "description": "Local-first desktop workspace for tasks, habits, journal, and focus sessions.",
+  "main": "electron/main.cjs",
+  "author": "Hearth",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^36.2.1"
+  }
+}
